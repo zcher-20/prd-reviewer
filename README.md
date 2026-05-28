@@ -4,10 +4,9 @@ An AI-powered product requirements auditor built as a premium Apple-style produc
 
 **[Live demo →](https://prd-reviewer.vercel.app)**
 
+<img width="614" height="593" alt="Screenshot 2026-05-28 at 2 52 35 PM" src="https://github.com/user-attachments/assets/89b09254-30a9-424e-bda1-289a3e2290f3" />
 <img width="638" height="650" alt="Screenshot 2026-05-28 at 7 36 38 PM" src="https://github.com/user-attachments/assets/3f36e548-48e1-405a-8657-cbfa6222070f" />
 <img width="634" height="283" alt="Screenshot 2026-05-28 at 7 36 29 PM" src="https://github.com/user-attachments/assets/76adb5f5-b433-4e84-8023-b89122993a9d" />
-<img width="614" height="593" alt="Screenshot 2026-05-28 at 2 52 35 PM" src="https://github.com/user-attachments/assets/89b09254-30a9-424e-bda1-289a3e2290f3" />
-
 
 ---
 
