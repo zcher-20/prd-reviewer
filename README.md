@@ -2,11 +2,12 @@
 
 An AI-powered product requirements auditor built as a premium Apple-style productivity app. Paste a PRD, get a structured analysis of ambiguities, missing edge cases, scope creep, and inconsistencies — with copy-ready rewrites for every finding.
 
-**[Live demo →]([https://prd-reviewer.vercel.app)](https://claude.ai/public/artifacts/8bb816ff-071d-4028-84db-0be25edf9145)**
+**[Live demo →](https://prd-reviewer.vercel.app)](https://claude.ai/public/artifacts/8bb816ff-071d-4028-84db-0be25edf9145)**
 
-<img width="614" height="593" alt="Screenshot 2026-05-28 at 2 52 35 PM" src="https://github.com/user-attachments/assets/89b09254-30a9-424e-bda1-289a3e2290f3" />
-<img width="638" height="650" alt="Screenshot 2026-05-28 at 7 36 38 PM" src="https://github.com/user-attachments/assets/3f36e548-48e1-405a-8657-cbfa6222070f" />
-<img width="634" height="283" alt="Screenshot 2026-05-28 at 7 36 29 PM" src="https://github.com/user-attachments/assets/76adb5f5-b433-4e84-8023-b89122993a9d" />
+<img width="583" height="390" alt="Screenshot 2026-05-28 at 8 01 38 PM 1" src="https://github.com/user-attachments/assets/16db8c48-bfac-4f99-a4f9-67010d2c987d" />
+<img width="583" height="390" alt="Screenshot 2026-05-28 at 8 01 23 PM" src="https://github.com/user-attachments/assets/ada95e03-a104-4fa8-b79e-ed3a3f9910b9" />
+<img width="583" height="706" alt="Screenshot 2026-05-28 at 8 00 30 PM" src="https://github.com/user-attachments/assets/9d2a52bd-f4ff-486f-bbfb-818f5d9cee69" />
+
 
 ---
 
