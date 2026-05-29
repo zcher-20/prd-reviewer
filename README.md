@@ -2,7 +2,7 @@
 
 An AI-powered product requirements auditor built as a premium Apple-style productivity app. Paste a PRD, get a structured analysis of ambiguities, missing edge cases, scope creep, and inconsistencies — with copy-ready rewrites for every finding.
 
-**[Live demo →][(https://prd-reviewer.vercel.app)](https://claude.ai/public/artifacts/8bb816ff-071d-4028-84db-0be25edf9145)]**
+**[Live Demo →](https://claude.ai/public/artifacts/8bb816ff-071d-4028-84db-0be25edf9145)**
 
 <img width="583" height="706" alt="Screenshot 2026-05-28 at 8 00 30 PM" src="https://github.com/user-attachments/assets/9d2a52bd-f4ff-486f-bbfb-818f5d9cee69" />
 <img width="583" height="390" alt="Screenshot 2026-05-28 at 8 01 23 PM" src="https://github.com/user-attachments/assets/ada95e03-a104-4fa8-b79e-ed3a3f9910b9" />
